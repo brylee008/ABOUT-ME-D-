@@ -6,7 +6,7 @@ Ask yourself a question: What score or stat are you most proud of?
 Here's my answer to this: 
 
 
-If I could track one metric, it would be the expected uplift I create in other people’s lives per interaction—call it
+If I could track one metric, it would be the expected uplift I create in other people’s lives per interaction....call it
 
 𝐸[ Δ𝑉 ∣ interaction],
 
