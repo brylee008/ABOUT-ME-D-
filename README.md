@@ -15,7 +15,7 @@ where
 𝑉
 is a crude “well-being + clarity + capability” utility. Most performance stats are single-period and private; this one is repeated-game and public, compounding like reputation. In practice it’s Bayesian: after an interaction, do others update their posterior on the day, the project, or themselves in a positive direction (likelihood ratio > 1)?
 
-Of course the process is stochastic. On some days I’m near the mean—white noise around zero. On others, I fall into the left tail and underperform my own benchmark. But what I optimize for is a right-skewed, heavy-tailed distribution: a few rare, high-impact contributions that dominate the long-run sum—showing up at 2 a.m., telling the hard truth cleanly, absorbing variance for the team. Those fat-tail “outlier” events matter far more than small daily fluctuations.
+Of course the process is stochastic. On some days I’m near the mean...white noise around zero. On others, I fall into the left tail and underperform my own benchmark. But what I optimize for is a right-skewed, heavy-tailed distribution: a few rare, high-impact contributions that dominate the long-run sum...showing up at 2 a.m., telling the hard truth cleanly, absorbing variance for the team. Those fat-tail “outlier” events matter far more than small daily fluctuations.
 
 Operationally, I treat character like a portfolio:
 
